@@ -1,0 +1,38 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Hillingdon",
+    "Site": {
+      "@SiteCode": "HI0",
+      "@Longitude": "-0.460826",
+      "@Latitude": "51.496309",
+      "@SiteName": "Hillingdon - Keats Way",
+      "@SiteType": "Suburban",
+      "@LatitudeWGS84": "6709559.07689",
+      "@LongitudeWGS84": "-51298.9156643",
+      "@BulletinDate": "2016-04-16 00:00:00",
+      "Species": [
+        {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "2",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@SpeciesCode": "NO2"
+        },
+        {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "2",
+          "@SpeciesDescription": "Ozone",
+          "@SpeciesCode": "O3"
+        }
+      ]
+    },
+    "@LaCentreLatitudeWGS84": "6716195.906043",
+    "@LaCentreLongitude": "-0.452568",
+    "@LocalAuthorityCode": "17",
+    "@LaCentreLongitudeWGS84": "-50379.639309",
+    "@LaCentreLatitude": "51.533411"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

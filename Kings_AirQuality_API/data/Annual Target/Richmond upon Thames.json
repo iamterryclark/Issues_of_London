@@ -1,0 +1,172 @@
+{"SiteObjectives": {"Site": [
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=RI1",
+    "@SiteCode": "RI1",
+    "@DataOwner": "Richmond",
+    "@Longitude": "-0.237335",
+    "@Latitude": "51.480189",
+    "@SiteName": "Richmond Upon Thames - Castlenau",
+    "@DataManager": "King's College London",
+    "@SiteType": "Roadside",
+    "@LatitudeWGS84": "6706677.20458",
+    "@LongitudeWGS84": "-26420.0113474",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "20"
+      },
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "2"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "38"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "20"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "4"
+      }
+    ]
+  },
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=RI2",
+    "@SiteCode": "RI2",
+    "@DataOwner": "Richmond",
+    "@Longitude": "-0.230427",
+    "@Latitude": "51.476168",
+    "@SiteName": "Richmond Upon Thames - Barnes Wetlands",
+    "@DataManager": "King's College London",
+    "@SiteType": "Suburban",
+    "@LatitudeWGS84": "6705958.50423",
+    "@LongitudeWGS84": "-25651.016305",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "15"
+      },
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "28"
+      },
+      {
+        "@SpeciesDescription": "Ozone",
+        "@Year": "2016",
+        "@ObjectiveName": "100 ug/m3 as an 8 hour mean, not to be exceeded more than 10 times a year",
+        "@SpeciesCode": "O3",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "16"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "2"
+      }
+    ]
+  },
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=TD0",
+    "@SiteCode": "TD0",
+    "@DataOwner": "Department for Environment Food and Rural Affairs",
+    "@Longitude": "-0.345714576446947",
+    "@Latitude": "51.4243043441456",
+    "@SiteName": "Richmond Upon Thames - Ntl Physical  Lab",
+    "@DataManager": "King's College London",
+    "@SiteType": "Suburban",
+    "@LatitudeWGS84": "6696103.27675",
+    "@LongitudeWGS84": "-37808.8858115",
+    "Objective": [
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "25"
+      },
+      {
+        "@SpeciesDescription": "Ozone",
+        "@Year": "2016",
+        "@ObjectiveName": "100 ug/m3 as an 8 hour mean, not to be exceeded more than 10 times a year",
+        "@SpeciesCode": "O3",
+        "@Achieved": "YES",
+        "@Value": "0"
+      }
+    ]
+  }
+]}}

@@ -1,0 +1,144 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Camden",
+    "Site": [
+      {
+        "@SiteCode": "BL0",
+        "@Longitude": "-0.125848",
+        "@Latitude": "51.522287",
+        "@SiteName": "Camden - Bloomsbury",
+        "@SiteType": "Urban Background",
+        "@LatitudeWGS84": "6714205.47041",
+        "@LongitudeWGS84": "-14009.3352774",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Ozone",
+            "@SpeciesCode": "O3"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM2.5 Particulate",
+            "@SpeciesCode": "PM25"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Sulphur Dioxide",
+            "@SpeciesCode": "SO2"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "CD1",
+        "@Longitude": "-0.175284",
+        "@Latitude": "51.544219",
+        "@SiteName": "Camden - Swiss Cottage",
+        "@SiteType": "Kerbside",
+        "@LatitudeWGS84": "6718130.26521",
+        "@LongitudeWGS84": "-19512.5256242",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM2.5 Particulate",
+            "@SpeciesCode": "PM25"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "CD9",
+        "@Longitude": "-0.129053205282516",
+        "@Latitude": "51.5277066194645",
+        "@SiteName": "Camden - Euston Road",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6715175.15109",
+        "@LongitudeWGS84": "-14366.1370973",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM2.5 Particulate",
+            "@SpeciesCode": "PM25"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "IM1",
+        "@Longitude": "-0.1201947113171",
+        "@Latitude": "51.5173675146177",
+        "@SiteName": "Camden - Holborn (inmidtown)",
+        "@SiteType": "Kerbside",
+        "@LatitudeWGS84": "6713325.37384719",
+        "@LongitudeWGS84": "-13380.0140598641",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "2",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@SpeciesCode": "NO2"
+        }
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6719470.518604",
+    "@LaCentreLongitude": "-0.158825",
+    "@LocalAuthorityCode": "6",
+    "@LaCentreLongitudeWGS84": "-17680.318125",
+    "@LaCentreLatitude": "51.551706"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

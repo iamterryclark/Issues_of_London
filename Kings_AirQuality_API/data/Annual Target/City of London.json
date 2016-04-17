@@ -1,0 +1,202 @@
+{"SiteObjectives": {"Site": [
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=CT3",
+    "@SiteCode": "CT3",
+    "@DataOwner": "City of London",
+    "@Longitude": "-0.077765681752",
+    "@Latitude": "51.513847178423",
+    "@SiteName": "City of London - Sir John Cass School",
+    "@DataManager": "King's College London",
+    "@SiteType": "Urban Background",
+    "@LatitudeWGS84": "6712695.6436",
+    "@LongitudeWGS84": "-8656.83609382",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "25"
+      },
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "5"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "NO",
+        "@Value": "46"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "25"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "5"
+      }
+    ]
+  },
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=CT4",
+    "@SiteCode": "CT4",
+    "@DataOwner": "City of London",
+    "@Longitude": "-0.0961060474176381",
+    "@Latitude": "51.520225273171",
+    "@SiteName": "City of London - Beech Street",
+    "@DataManager": "King's College London",
+    "@SiteType": "Roadside",
+    "@LatitudeWGS84": "6713836.61564",
+    "@LongitudeWGS84": "-10698.4762607",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "29"
+      },
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "7"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "NO",
+        "@Value": "41"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "NO",
+        "@Value": "82"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "26"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "8"
+      }
+    ]
+  },
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=CT6",
+    "@SiteCode": "CT6",
+    "@DataOwner": "City of London",
+    "@Longitude": "-0.091634",
+    "@Latitude": "51.510499",
+    "@SiteName": "City of London - Walbrook Wharf",
+    "@DataManager": "King's College London",
+    "@SiteType": "Roadside",
+    "@LatitudeWGS84": "6712096.7547",
+    "@LongitudeWGS84": "-10200.6502194",
+    "Objective": [
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "NO",
+        "@Value": "41"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "NO",
+        "@Value": "93"
+      }
+    ]
+  },
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=CT8",
+    "@SiteCode": "CT8",
+    "@DataOwner": "City of London",
+    "@Longitude": "-0.0873571979556188",
+    "@Latitude": "51.5095436853913",
+    "@SiteName": "City of London - Upper Thames Street",
+    "@DataManager": "King's College London",
+    "@SiteType": "Roadside",
+    "@LatitudeWGS84": "6711925.88559",
+    "@LongitudeWGS84": "-9724.55879355",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "NO",
+        "@Value": "45"
+      },
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "26"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "36"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "17"
+      }
+    ]
+  }
+]}}

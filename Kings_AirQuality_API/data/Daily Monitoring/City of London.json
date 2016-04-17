@@ -1,0 +1,100 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "City of London",
+    "Site": [
+      {
+        "@SiteCode": "CT3",
+        "@Longitude": "-0.077765681752",
+        "@Latitude": "51.513847178423",
+        "@SiteName": "City of London - Sir John Cass School",
+        "@SiteType": "Urban Background",
+        "@LatitudeWGS84": "6712695.6436",
+        "@LongitudeWGS84": "-8656.83609382",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "CT4",
+        "@Longitude": "-0.0961060474176381",
+        "@Latitude": "51.520225273171",
+        "@SiteName": "City of London - Beech Street",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6713836.61564",
+        "@LongitudeWGS84": "-10698.4762607",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "CT6",
+        "@Longitude": "-0.091634",
+        "@Latitude": "51.510499",
+        "@SiteName": "City of London - Walbrook Wharf",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6712096.7547",
+        "@LongitudeWGS84": "-10200.6502194",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "2",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@SpeciesCode": "NO2"
+        }
+      },
+      {
+        "@SiteCode": "CT8",
+        "@Longitude": "-0.0873571979556188",
+        "@Latitude": "51.5095436853913",
+        "@SiteName": "City of London - Upper Thames Street",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6711925.88559",
+        "@LongitudeWGS84": "-9724.55879355",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "PM10 Particulate",
+          "@SpeciesCode": "PM10"
+        }
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6712603.132989",
+    "@LaCentreLongitude": "-0.088947",
+    "@LocalAuthorityCode": "7",
+    "@LaCentreLongitudeWGS84": "-9901.534748",
+    "@LaCentreLatitude": "51.51333"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

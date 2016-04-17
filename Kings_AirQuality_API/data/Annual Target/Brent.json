@@ -1,0 +1,164 @@
+{"SiteObjectives": {"Site": [
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=BT4",
+    "@SiteCode": "BT4",
+    "@DataOwner": "Brent",
+    "@Longitude": "-0.258089",
+    "@Latitude": "51.552476",
+    "@SiteName": "Brent - Ikea",
+    "@DataManager": "King's College London",
+    "@SiteType": "Roadside",
+    "@LatitudeWGS84": "6719608.36938",
+    "@LongitudeWGS84": "-28730.3360593",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "38"
+      },
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "22"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "7"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "NO",
+        "@Value": "72"
+      },
+      {
+        "@SpeciesDescription": "Ozone",
+        "@Year": "2016",
+        "@ObjectiveName": "100 ug/m3 as an 8 hour mean, not to be exceeded more than 10 times a year",
+        "@SpeciesCode": "O3",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "35"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "18"
+      }
+    ]
+  },
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=BT5",
+    "@SiteCode": "BT5",
+    "@DataOwner": "Brent",
+    "@Longitude": "-0.248774",
+    "@Latitude": "51.552656",
+    "@SiteName": "Brent - Neasden Lane",
+    "@DataManager": "King's College London",
+    "@SiteType": "Industrial",
+    "@LatitudeWGS84": "6719640.59457",
+    "@LongitudeWGS84": "-27693.3950026",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "35"
+      },
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "23"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "28"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "11"
+      }
+    ]
+  },
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=BT6",
+    "@SiteCode": "BT6",
+    "@DataOwner": "Brent",
+    "@Longitude": "-0.247793",
+    "@Latitude": "51.537799",
+    "@SiteName": "Brent - John Keble Primary School",
+    "@DataManager": "King's College London",
+    "@SiteType": "Roadside",
+    "@LatitudeWGS84": "6716981.19188",
+    "@LongitudeWGS84": "-27584.1905821",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "21"
+      },
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "2"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "22"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "3"
+      }
+    ]
+  }
+]}}

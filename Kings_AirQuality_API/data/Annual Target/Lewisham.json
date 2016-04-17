@@ -1,0 +1,242 @@
+{"SiteObjectives": {"Site": [
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=LW1",
+    "@SiteCode": "LW1",
+    "@DataOwner": "Lewisham",
+    "@Longitude": "-0.020266",
+    "@Latitude": "51.445468",
+    "@SiteName": "Lewisham - Catford",
+    "@DataManager": "King's College London",
+    "@SiteType": "Urban Background",
+    "@LatitudeWGS84": "6700473.37417",
+    "@LongitudeWGS84": "-2256.00080042",
+    "Objective": [
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "NO",
+        "@Value": "48"
+      },
+      {
+        "@SpeciesDescription": "Ozone",
+        "@Year": "2016",
+        "@ObjectiveName": "100 ug/m3 as an 8 hour mean, not to be exceeded more than 10 times a year",
+        "@SpeciesCode": "O3",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "Sulphur Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "125 ug/m3 as a 24 hour mean, not to be exceeded more than 3 times a year",
+        "@SpeciesCode": "SO2",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "Sulphur Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "266 ug/m3 as a 15 minute mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "SO2",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "Sulphur Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "350 ug/m3 as a 1 hour mean, not to be exceeded more than 24 times a year",
+        "@SpeciesCode": "SO2",
+        "@Achieved": "YES",
+        "@Value": "0"
+      }
+    ]
+  },
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=LW2",
+    "@SiteCode": "LW2",
+    "@DataOwner": "Lewisham",
+    "@Longitude": "-0.039641",
+    "@Latitude": "51.474954",
+    "@SiteName": "Lewisham - New Cross",
+    "@DataManager": "King's College London",
+    "@SiteType": "Roadside",
+    "@LatitudeWGS84": "6705741.5303",
+    "@LongitudeWGS84": "-4412.81593454",
+    "Objective": [
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "NO",
+        "@Value": "52"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "24"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "4"
+      },
+      {
+        "@SpeciesDescription": "Sulphur Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "125 ug/m3 as a 24 hour mean, not to be exceeded more than 3 times a year",
+        "@SpeciesCode": "SO2",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "Sulphur Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "266 ug/m3 as a 15 minute mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "SO2",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "Sulphur Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "350 ug/m3 as a 1 hour mean, not to be exceeded more than 24 times a year",
+        "@SpeciesCode": "SO2",
+        "@Achieved": "YES",
+        "@Value": "0"
+      }
+    ]
+  },
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=LW3",
+    "@SiteCode": "LW3",
+    "@DataOwner": "Lewisham",
+    "@Longitude": "-0.0456708566668043",
+    "@Latitude": "51.4811412184719",
+    "@SiteName": "Lewisham - Mercury Way",
+    "@DataManager": "King's College London",
+    "@SiteType": "Industrial",
+    "@LatitudeWGS84": "6706847.41027",
+    "@LongitudeWGS84": "-5084.05650824",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "31"
+      },
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "2"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "31"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "2"
+      }
+    ]
+  },
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=LW4",
+    "@SiteCode": "LW4",
+    "@DataOwner": "Lewisham",
+    "@Longitude": "-0.016068243204",
+    "@Latitude": "51.4646910611736",
+    "@SiteName": "Lewisham - Loampit Vale",
+    "@DataManager": "King's College London",
+    "@SiteType": "Roadside",
+    "@LatitudeWGS84": "6703907.50224776",
+    "@LongitudeWGS84": "-1788.70865141176",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "28"
+      },
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "6"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "4"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "NO",
+        "@Value": "62"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "28"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "6"
+      }
+    ]
+  }
+]}}

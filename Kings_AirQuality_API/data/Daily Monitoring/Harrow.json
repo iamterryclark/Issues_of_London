@@ -1,0 +1,73 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Harrow",
+    "Site": [
+      {
+        "@SiteCode": "HR1",
+        "@Longitude": "-0.298775",
+        "@Latitude": "51.617327",
+        "@SiteName": "Harrow - Stanmore",
+        "@SiteType": "Urban Background",
+        "@LatitudeWGS84": "6731226.83276",
+        "@LongitudeWGS84": "-33259.4808618",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM2.5 Particulate",
+            "@SpeciesCode": "PM25"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "HR2",
+        "@Longitude": "-0.362989",
+        "@Latitude": "51.588417",
+        "@SiteName": "Harrow - Pinner Road",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6726045.37632",
+        "@LongitudeWGS84": "-40407.7506436",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6724324.092044",
+    "@LaCentreLongitude": "-0.33376",
+    "@LocalAuthorityCode": "15",
+    "@LaCentreLongitudeWGS84": "-37153.993247",
+    "@LaCentreLatitude": "51.578809"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

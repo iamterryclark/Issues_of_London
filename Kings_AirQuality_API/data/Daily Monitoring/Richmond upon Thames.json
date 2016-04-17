@@ -1,0 +1,116 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Richmond",
+    "Site": [
+      {
+        "@SiteCode": "RI1",
+        "@Longitude": "-0.237335",
+        "@Latitude": "51.480189",
+        "@SiteName": "Richmond Upon Thames - Castlenau",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6706677.20458",
+        "@LongitudeWGS84": "-26420.0113474",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "RI2",
+        "@Longitude": "-0.230427",
+        "@Latitude": "51.476168",
+        "@SiteName": "Richmond Upon Thames - Barnes Wetlands",
+        "@SiteType": "Suburban",
+        "@LatitudeWGS84": "6705958.50423",
+        "@LongitudeWGS84": "-25651.016305",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Ozone",
+            "@SpeciesCode": "O3"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "TD0",
+        "@Longitude": "-0.345714576446947",
+        "@Latitude": "51.4243043441456",
+        "@SiteName": "Richmond Upon Thames - Ntl Physical  Lab",
+        "@SiteType": "Suburban",
+        "@LatitudeWGS84": "6696103.27675",
+        "@LongitudeWGS84": "-37808.8858115",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "3",
+            "@SpeciesDescription": "Ozone",
+            "@SpeciesCode": "O3"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "TD5",
+        "@Longitude": "-0.345608290872898",
+        "@Latitude": "51.4252560360937",
+        "@SiteName": "Richmond Upon Thames - Bushy Park",
+        "@SiteType": "Suburban",
+        "@LatitudeWGS84": "6696694.23761",
+        "@LongitudeWGS84": "-38484.7706099",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "PM2.5 Particulate",
+          "@SpeciesCode": "PM25"
+        }
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6703309.100938",
+    "@LaCentreLongitude": "-0.303547",
+    "@LocalAuthorityCode": "27",
+    "@LaCentreLongitudeWGS84": "-33790.697472",
+    "@LaCentreLatitude": "51.461342"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

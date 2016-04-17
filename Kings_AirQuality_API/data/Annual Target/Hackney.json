@@ -1,0 +1,70 @@
+{"SiteObjectives": {"Site": {
+  "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=HK6",
+  "@SiteCode": "HK6",
+  "@DataOwner": "Hackney",
+  "@Longitude": "-0.08491",
+  "@Latitude": "51.526454",
+  "@SiteName": "Hackney - Old Street",
+  "@DataManager": "King's College London",
+  "@SiteType": "Roadside",
+  "@LatitudeWGS84": "6714951.02162",
+  "@LongitudeWGS84": "-9452.13796326",
+  "Objective": [
+    {
+      "@SpeciesDescription": "PM10 (not reference equiv.)",
+      "@Year": "2016",
+      "@ObjectiveName": "40 ug/m3 as an annual mean",
+      "@SpeciesCode": "DUST",
+      "@Achieved": "YES",
+      "@Value": "26"
+    },
+    {
+      "@SpeciesDescription": "PM10 (not reference equiv.)",
+      "@Year": "2016",
+      "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+      "@SpeciesCode": "DUST",
+      "@Achieved": "YES",
+      "@Value": "1"
+    },
+    {
+      "@SpeciesDescription": "Nitrogen Dioxide",
+      "@Year": "2016",
+      "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+      "@SpeciesCode": "NO2",
+      "@Achieved": "YES",
+      "@Value": "0"
+    },
+    {
+      "@SpeciesDescription": "Nitrogen Dioxide",
+      "@Year": "2016",
+      "@ObjectiveName": "40 ug/m3 as an annual mean",
+      "@SpeciesCode": "NO2",
+      "@Achieved": "NO",
+      "@Value": "61"
+    },
+    {
+      "@SpeciesDescription": "Ozone",
+      "@Year": "2016",
+      "@ObjectiveName": "100 ug/m3 as an 8 hour mean, not to be exceeded more than 10 times a year",
+      "@SpeciesCode": "O3",
+      "@Achieved": "YES",
+      "@Value": "0"
+    },
+    {
+      "@SpeciesDescription": "PM10 Particulate",
+      "@Year": "2016",
+      "@ObjectiveName": "40 ug/m3 as an annual mean",
+      "@SpeciesCode": "PM10",
+      "@Achieved": "YES",
+      "@Value": "15"
+    },
+    {
+      "@SpeciesDescription": "PM10 Particulate",
+      "@Year": "2016",
+      "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+      "@SpeciesCode": "PM10",
+      "@Achieved": "YES",
+      "@Value": "1"
+    }
+  ]
+}}}

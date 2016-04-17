@@ -1,0 +1,334 @@
+{"SiteObjectives": {"Site": [
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=BQ7",
+    "@SiteCode": "BQ7",
+    "@DataOwner": "Bexley",
+    "@Longitude": "0.137279111232178",
+    "@Latitude": "51.4946486813055",
+    "@SiteName": "Bexley - Belvedere West",
+    "@DataManager": "King's College London",
+    "@SiteType": "Urban Background",
+    "@LatitudeWGS84": "6709278.28804",
+    "@LongitudeWGS84": "14951.9364255",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "17"
+      },
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "1"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "24"
+      },
+      {
+        "@SpeciesDescription": "Ozone",
+        "@Year": "2016",
+        "@ObjectiveName": "100 ug/m3 as an 8 hour mean, not to be exceeded more than 10 times a year",
+        "@SpeciesCode": "O3",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "18"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "3"
+      }
+    ]
+  },
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=BQ8",
+    "@SiteCode": "BQ8",
+    "@DataOwner": "Bexley",
+    "@Longitude": "0.137279111232178",
+    "@Latitude": "51.4946486813055",
+    "@SiteName": "Bexley - Belvedere West FDMS",
+    "@DataManager": "King's College London",
+    "@SiteType": "Urban Background",
+    "@LatitudeWGS84": "6709278.28804",
+    "@LongitudeWGS84": "14951.9364255",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "15"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "3"
+      }
+    ]
+  },
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=BX0",
+    "@SiteCode": "BX0",
+    "@DataOwner": "Bexley",
+    "@Longitude": "0.158914493927518",
+    "@Latitude": "51.4906102082147",
+    "@SiteName": "Bexley - Belvedere FDMS",
+    "@DataManager": "King's College London",
+    "@SiteType": "Suburban",
+    "@LatitudeWGS84": "6708546.55118",
+    "@LongitudeWGS84": "17686.6633362",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "20"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "2"
+      }
+    ]
+  },
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=BX1",
+    "@SiteCode": "BX1",
+    "@DataOwner": "Department for Environment Food and Rural Affairs",
+    "@Longitude": "0.184877126994369",
+    "@Latitude": "51.4659832746662",
+    "@SiteName": "Bexley - Slade Green",
+    "@DataManager": "King's College London",
+    "@SiteType": "Suburban",
+    "@LatitudeWGS84": "6704140.10457",
+    "@LongitudeWGS84": "20577.2727637",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "17"
+      },
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "1"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "31"
+      },
+      {
+        "@SpeciesDescription": "Ozone",
+        "@Year": "2016",
+        "@ObjectiveName": "100 ug/m3 as an 8 hour mean, not to be exceeded more than 10 times a year",
+        "@SpeciesCode": "O3",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "14"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "0"
+      }
+    ]
+  },
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=BX2",
+    "@SiteCode": "BX2",
+    "@DataOwner": "Bexley",
+    "@Longitude": "0.158914493927518",
+    "@Latitude": "51.4906102082147",
+    "@SiteName": "Bexley - Belvedere",
+    "@DataManager": "King's College London",
+    "@SiteType": "Suburban",
+    "@LatitudeWGS84": "6708546.55118",
+    "@LongitudeWGS84": "17686.6633362",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "17"
+      },
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "1"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "30"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "17"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "2"
+      }
+    ]
+  },
+  {
+    "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=GB6",
+    "@SiteCode": "GB6",
+    "@DataOwner": "Bexley",
+    "@Longitude": "0.085606",
+    "@Latitude": "51.4563",
+    "@SiteName": "Greenwich and Bexley - Falconwood",
+    "@DataManager": "King's College London",
+    "@SiteType": "Roadside",
+    "@LatitudeWGS84": "6702408.29265",
+    "@LongitudeWGS84": "9529.61632885",
+    "Objective": [
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "24"
+      },
+      {
+        "@SpeciesDescription": "PM10 (not reference equiv.)",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "DUST",
+        "@Achieved": "YES",
+        "@Value": "7"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "YES",
+        "@Value": "3"
+      },
+      {
+        "@SpeciesDescription": "Nitrogen Dioxide",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "NO2",
+        "@Achieved": "NO",
+        "@Value": "47"
+      },
+      {
+        "@SpeciesDescription": "Ozone",
+        "@Year": "2016",
+        "@ObjectiveName": "100 ug/m3 as an 8 hour mean, not to be exceeded more than 10 times a year",
+        "@SpeciesCode": "O3",
+        "@Achieved": "YES",
+        "@Value": "0"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "40 ug/m3 as an annual mean",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "19"
+      },
+      {
+        "@SpeciesDescription": "PM10 Particulate",
+        "@Year": "2016",
+        "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+        "@SpeciesCode": "PM10",
+        "@Achieved": "YES",
+        "@Value": "1"
+      }
+    ]
+  }
+]}}

@@ -1,0 +1,64 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Havering",
+    "Site": [
+      {
+        "@SiteCode": "HV1",
+        "@Longitude": "0.205460705694044",
+        "@Latitude": "51.520787459334",
+        "@SiteName": "Havering - Rainham",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6713943.19288",
+        "@LongitudeWGS84": "22876.155358",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM2.5 Particulate",
+            "@SpeciesCode": "PM25"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "HV3",
+        "@Longitude": "0.179079",
+        "@Latitude": "51.572976",
+        "@SiteName": "Havering - Romford",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6723279.28089",
+        "@LongitudeWGS84": "19934.9830918",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@SpeciesCode": "NO2"
+        }
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6724165.561579",
+    "@LaCentreLongitude": "0.212083",
+    "@LocalAuthorityCode": "16",
+    "@LaCentreLongitudeWGS84": "23608.971566",
+    "@LaCentreLatitude": "51.577924"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

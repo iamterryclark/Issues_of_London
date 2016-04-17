@@ -1,0 +1,66 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Barking and Dagenham",
+    "Site": [
+      {
+        "@SiteCode": "BG1",
+        "@Longitude": "0.177891",
+        "@Latitude": "51.563752",
+        "@SiteName": "Barking and Dagenham - Rush Green",
+        "@SiteType": "Suburban",
+        "@LatitudeWGS84": "6721627.34498",
+        "@LongitudeWGS84": "19802.7355367",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Sulphur Dioxide",
+            "@SpeciesCode": "SO2"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "BG2",
+        "@Longitude": "0.132857",
+        "@Latitude": "51.529389",
+        "@SiteName": "Barking and Dagenham - Scrattons Farm",
+        "@SiteType": "Suburban",
+        "@LatitudeWGS84": "6715476.18683",
+        "@LongitudeWGS84": "14789.5735883",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6717095.01808",
+    "@LaCentreLongitude": "0.11467",
+    "@LocalAuthorityCode": "1",
+    "@LaCentreLongitudeWGS84": "12765.0060093",
+    "@LaCentreLatitude": "51.538435"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

@@ -1,0 +1,57 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Haringey",
+    "Site": [
+      {
+        "@SiteCode": "HG1",
+        "@Longitude": "-0.068218",
+        "@Latitude": "51.599302",
+        "@SiteName": "Haringey - Haringey Town Hall",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6727995.87648",
+        "@LongitudeWGS84": "-7593.99302294",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@SpeciesCode": "NO2"
+        }
+      },
+      {
+        "@SiteCode": "HG4",
+        "@Longitude": "-0.125400278484885",
+        "@Latitude": "51.5839769007709",
+        "@SiteName": "Haringey  - Priory Park South",
+        "@SiteType": "Urban Background",
+        "@LatitudeWGS84": "6725249.88218781",
+        "@LongitudeWGS84": "-13959.4951462721",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Ozone",
+            "@SpeciesCode": "O3"
+          }
+        ]
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6724112.718777",
+    "@LaCentreLongitude": "-0.091721",
+    "@LocalAuthorityCode": "14",
+    "@LaCentreLongitudeWGS84": "-10210.335015",
+    "@LaCentreLatitude": "51.577629"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

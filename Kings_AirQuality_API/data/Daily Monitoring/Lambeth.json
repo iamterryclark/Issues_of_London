@@ -1,0 +1,83 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Lambeth",
+    "Site": [
+      {
+        "@SiteCode": "LB4",
+        "@Longitude": "-0.11458102695123",
+        "@Latitude": "51.464113541162",
+        "@SiteName": "Lambeth - Brixton Road",
+        "@SiteType": "Kerbside",
+        "@LatitudeWGS84": "6703810.46654",
+        "@LongitudeWGS84": "-12751.5363509",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Moderate",
+            "@AirQualityIndex": "5",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "LB5",
+        "@Longitude": "-0.124545234819213",
+        "@Latitude": "51.4854867739729",
+        "@SiteName": "Lambeth - Bondway Interchange",
+        "@SiteType": "Industrial",
+        "@LatitudeWGS84": "6707629.96897",
+        "@LongitudeWGS84": "-13860.2784792",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "2",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@SpeciesCode": "NO2"
+        }
+      },
+      {
+        "@SiteCode": "LB6",
+        "@Longitude": "-0.13186863879576",
+        "@Latitude": "51.4282131429499",
+        "@SiteName": "Lambeth - Streatham Green",
+        "@SiteType": "Urban Background",
+        "@LatitudeWGS84": "6697392.0894",
+        "@LongitudeWGS84": "-14679.5497223",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6708272.298688",
+    "@LaCentreLongitude": "-0.11067",
+    "@LocalAuthorityCode": "22",
+    "@LaCentreLongitudeWGS84": "-12319.728046",
+    "@LaCentreLatitude": "51.489112"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

@@ -1,0 +1,144 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Sutton",
+    "Site": [
+      {
+        "@SiteCode": "ST3",
+        "@Longitude": "-0.165936",
+        "@Latitude": "51.365318",
+        "@SiteName": "Sutton - Carshalton",
+        "@SiteType": "Suburban",
+        "@LatitudeWGS84": "6686170.43427",
+        "@LongitudeWGS84": "-18471.9110243",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Ozone",
+            "@SpeciesCode": "O3"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "ST4",
+        "@Longitude": "-0.149723946604927",
+        "@Latitude": "51.3586596124998",
+        "@SiteName": "Sutton - Wallington",
+        "@SiteType": "Kerbside",
+        "@LatitudeWGS84": "6684987.88329",
+        "@LongitudeWGS84": "-16663.3032574",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "3",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "ST5",
+        "@Longitude": "-0.141661524779893",
+        "@Latitude": "51.389286904505",
+        "@SiteName": "Sutton - Beddington Lane north",
+        "@SiteType": "Industrial",
+        "@LatitudeWGS84": "6690449.76537",
+        "@LongitudeWGS84": "-15766.2908005",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "ST6",
+        "@Longitude": "-0.240414",
+        "@Latitude": "51.377923",
+        "@SiteName": "Sutton - Worcester Park",
+        "@SiteType": "Kerbside",
+        "@LatitudeWGS84": "6688418.16328",
+        "@LongitudeWGS84": "-26762.7640596",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "ST8",
+        "@Longitude": "-0.1364178614733",
+        "@Latitude": "51.3835652277943",
+        "@SiteName": "Sutton - Beddington Lane",
+        "@SiteType": "Industrial",
+        "@LatitudeWGS84": "6689424.4883013",
+        "@LongitudeWGS84": "-15185.9668743151",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6685302.179467",
+    "@LaCentreLongitude": "-0.191691",
+    "@LocalAuthorityCode": "29",
+    "@LaCentreLongitudeWGS84": "-21338.94451",
+    "@LaCentreLatitude": "51.360448"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "54"
+}}

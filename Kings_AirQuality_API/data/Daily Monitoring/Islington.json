@@ -1,0 +1,66 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Islington",
+    "Site": [
+      {
+        "@SiteCode": "IS2",
+        "@Longitude": "-0.116146",
+        "@Latitude": "51.555378",
+        "@SiteName": "Islington - Holloway Road",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6720127.92666",
+        "@LongitudeWGS84": "-12929.3135777",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "IS6",
+        "@Longitude": "-0.106989",
+        "@Latitude": "51.557895",
+        "@SiteName": "Islington - Arsenal",
+        "@SiteType": "Urban Background",
+        "@LatitudeWGS84": "6720578.5826",
+        "@LongitudeWGS84": "-11909.9610005",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6716473.288702",
+    "@LaCentreLongitude": "-0.103742",
+    "@LocalAuthorityCode": "19",
+    "@LaCentreLongitudeWGS84": "-11548.506614",
+    "@LaCentreLatitude": "51.534961"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

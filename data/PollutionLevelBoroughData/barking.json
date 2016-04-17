@@ -1,0 +1,68 @@
+{
+DailyAirQualityIndex: {
+@MonitoringIndexDate: "2016-04-12 00:00:00",
+@TimeToLive: "15",
+LocalAuthority: {
+@LocalAuthorityCode: "1",
+@LocalAuthorityName: "Barking and Dagenham",
+@LaCentreLatitude: "51.538435",
+@LaCentreLongitude: "0.11467",
+@LaCentreLatitudeWGS84: "6717095.01808",
+@LaCentreLongitudeWGS84: "12765.0060093",
+Site: [
+{
+@BulletinDate: "2016-04-12 00:00:00",
+@SiteCode: "BG1",
+@SiteName: "Barking and Dagenham - Rush Green",
+@SiteType: "Suburban",
+@Latitude: "51.563752",
+@Longitude: "0.177891",
+@LatitudeWGS84: "6721627.34498",
+@LongitudeWGS84: "19802.7355367",
+Species: [
+{
+@SpeciesCode: "NO2",
+@SpeciesDescription: "Nitrogen Dioxide",
+@AirQualityIndex: "1",
+@AirQualityBand: "Low",
+@IndexSource: "Measurement"
+},
+{
+@SpeciesCode: "SO2",
+@SpeciesDescription: "Sulphur Dioxide",
+@AirQualityIndex: "1",
+@AirQualityBand: "Low",
+@IndexSource: "Measurement"
+}
+]
+},
+{
+@BulletinDate: "2016-04-12 00:00:00",
+@SiteCode: "BG2",
+@SiteName: "Barking and Dagenham - Scrattons Farm",
+@SiteType: "Suburban",
+@Latitude: "51.529389",
+@Longitude: "0.132857",
+@LatitudeWGS84: "6715476.18683",
+@LongitudeWGS84: "14789.5735883",
+Species: [
+{
+@SpeciesCode: "NO2",
+@SpeciesDescription: "Nitrogen Dioxide",
+@AirQualityIndex: "2",
+@AirQualityBand: "Low",
+@IndexSource: "Measurement"
+},
+{
+@SpeciesCode: "PM10",
+@SpeciesDescription: "PM10 Particulate",
+@AirQualityIndex: "1",
+@AirQualityBand: "Low",
+@IndexSource: "Measurement"
+}
+]
+}
+]
+}
+}
+}

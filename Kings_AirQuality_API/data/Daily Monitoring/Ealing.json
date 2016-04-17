@@ -1,0 +1,109 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Ealing",
+    "Site": [
+      {
+        "@SiteCode": "EA6",
+        "@Longitude": "-0.292488",
+        "@Latitude": "51.53085",
+        "@SiteName": "Ealing - Hanger Lane Gyratory",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6715737.619",
+        "@LongitudeWGS84": "-32559.6152231",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "3",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "EA8",
+        "@Longitude": "-0.265617",
+        "@Latitude": "51.518948",
+        "@SiteName": "Ealing - Horn Lane",
+        "@SiteType": "Industrial",
+        "@LatitudeWGS84": "6713608.11252",
+        "@LongitudeWGS84": "-29568.349186",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "EI1",
+        "@Longitude": "-0.265502631799754",
+        "@Latitude": "51.5236078191481",
+        "@SiteName": "Ealing - Western Avenue",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6714441.78131",
+        "@LongitudeWGS84": "-29555.6177762",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "EI8",
+        "@Longitude": "-0.265652052386222",
+        "@Latitude": "51.5189160348806",
+        "@SiteName": "Ealing - Horn Lane TEOM",
+        "@SiteType": "Industrial",
+        "@LatitudeWGS84": "6713608.11252",
+        "@LongitudeWGS84": "-29568.349186",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "PM10 Particulate",
+          "@SpeciesCode": "PM10"
+        }
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6712606.889356",
+    "@LaCentreLongitude": "-0.304214",
+    "@LocalAuthorityCode": "9",
+    "@LaCentreLongitudeWGS84": "-33864.947572",
+    "@LaCentreLatitude": "51.513351"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

@@ -1,0 +1,107 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Enfield",
+    "Site": [
+      {
+        "@SiteCode": "EN1",
+        "@Longitude": "-0.0661800662229116",
+        "@Latitude": "51.6450367266602",
+        "@SiteName": "Enfield - Bush Hill Park",
+        "@SiteType": "Suburban",
+        "@LatitudeWGS84": "6736196.26651",
+        "@LongitudeWGS84": "-7367.1312726",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@SpeciesCode": "NO2"
+        }
+      },
+      {
+        "@SiteCode": "EN4",
+        "@Longitude": "-0.0507658363689",
+        "@Latitude": "51.614864007",
+        "@SiteName": "Enfield - Derby Road",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6730785.26900193",
+        "@LongitudeWGS84": "-5651.2270542806",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Sulphur Dioxide",
+            "@SpeciesCode": "SO2"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "EN5",
+        "@Longitude": "-0.125338",
+        "@Latitude": "51.613865",
+        "@SiteName": "Enfield - Bowes Primary School",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6730606.17452",
+        "@LongitudeWGS84": "-13952.562337",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "EN7",
+        "@Longitude": "-0.02200720557",
+        "@Latitude": "51.66864334727",
+        "@SiteName": "Enfield - Prince of Wales School",
+        "@SiteType": "Urban Background",
+        "@LatitudeWGS84": "6740432.24987404",
+        "@LongitudeWGS84": "-2449.83091783529",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@SpeciesCode": "NO2"
+        }
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6737462.75468",
+    "@LaCentreLongitude": "-0.081533",
+    "@LocalAuthorityCode": "10",
+    "@LaCentreLongitudeWGS84": "-9076.212043",
+    "@LaCentreLatitude": "51.652096"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

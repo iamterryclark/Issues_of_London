@@ -1,0 +1,29 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Merton",
+    "Site": {
+      "@SiteCode": "ME2",
+      "@Longitude": "-0.192230805042824",
+      "@Latitude": "51.4161384794862",
+      "@SiteName": "Merton - Merton Road",
+      "@SiteType": "Roadside",
+      "@LatitudeWGS84": "6695236.54926",
+      "@LongitudeWGS84": "-21399.0353321",
+      "@BulletinDate": "2016-04-16 00:00:00",
+      "Species": {
+        "@IndexSource": "Measurement",
+        "@AirQualityBand": "Low",
+        "@AirQualityIndex": "1",
+        "@SpeciesDescription": "PM10 Particulate",
+        "@SpeciesCode": "PM10"
+      }
+    },
+    "@LaCentreLatitudeWGS84": "6695153.285882",
+    "@LaCentreLongitude": "-0.191814",
+    "@LocalAuthorityCode": "24",
+    "@LaCentreLongitudeWGS84": "-21352.636807",
+    "@LaCentreLatitude": "51.415672"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

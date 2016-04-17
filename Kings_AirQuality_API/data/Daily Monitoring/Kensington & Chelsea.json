@@ -1,0 +1,138 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Kensington and Chelsea",
+    "Site": [
+      {
+        "@SiteCode": "KC1",
+        "@Longitude": "-0.213492139585065",
+        "@Latitude": "51.5210467476039",
+        "@SiteName": "Kensington and Chelsea - North Ken",
+        "@SiteType": "Urban Background",
+        "@LatitudeWGS84": "6713983.58013",
+        "@LongitudeWGS84": "-23765.836267",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Ozone",
+            "@SpeciesCode": "O3"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM2.5 Particulate",
+            "@SpeciesCode": "PM25"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "KC2",
+        "@Longitude": "-0.178809464",
+        "@Latitude": "51.49550391",
+        "@SiteName": "Kensington and Chelsea - Cromwell Road",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6709415.12178",
+        "@LongitudeWGS84": "-19904.9784815",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM2.5 Particulate",
+            "@SpeciesCode": "PM25"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "KC4",
+        "@Longitude": "-0.168397129",
+        "@Latitude": "51.48743685",
+        "@SiteName": "Kensington and Chelsea - Kings Road",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6707972.82158",
+        "@LongitudeWGS84": "-18745.8826513",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "2",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@SpeciesCode": "NO2"
+        }
+      },
+      {
+        "@SiteCode": "KC5",
+        "@Longitude": "-0.190863311",
+        "@Latitude": "51.49019756",
+        "@SiteName": "Kensington and Chelsea - Earls Court Rd",
+        "@SiteType": "Kerbside",
+        "@LatitudeWGS84": "6708466.37696",
+        "@LongitudeWGS84": "-21246.8065916",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "2",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@SpeciesCode": "NO2"
+        }
+      },
+      {
+        "@SiteCode": "KC7",
+        "@Longitude": "-0.21344617",
+        "@Latitude": "51.52106551",
+        "@SiteName": "Kensington and Chelsea - North Ken FDMS",
+        "@SiteType": "Urban Background",
+        "@LatitudeWGS84": "6713986.93682",
+        "@LongitudeWGS84": "-23760.7189562",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "PM10 Particulate",
+          "@SpeciesCode": "PM10"
+        }
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6710556.349032",
+    "@LaCentreLongitude": "-0.190895",
+    "@LocalAuthorityCode": "20",
+    "@LaCentreLongitudeWGS84": "-21250.334195",
+    "@LaCentreLatitude": "51.501886"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

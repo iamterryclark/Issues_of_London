@@ -1,0 +1,57 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Redbridge",
+    "Site": [
+      {
+        "@SiteCode": "RB4",
+        "@Longitude": "0.030858",
+        "@Latitude": "51.57661",
+        "@SiteName": "Redbridge - Gardner Close",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6723930.18984",
+        "@LongitudeWGS84": "3435.0968469",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "PM10 Particulate",
+          "@SpeciesCode": "PM10"
+        }
+      },
+      {
+        "@SiteCode": "RB7",
+        "@Longitude": "0.0829074748964946",
+        "@Latitude": "51.5694843315237",
+        "@SiteName": "Redbridge - Ley Street",
+        "@SiteType": "Urban Background",
+        "@LatitudeWGS84": "6722606.75352",
+        "@LongitudeWGS84": "9108.2720562",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6726079.956218",
+    "@LaCentreLongitude": "0.082398",
+    "@LocalAuthorityCode": "26",
+    "@LaCentreLongitudeWGS84": "9172.503402",
+    "@LaCentreLatitude": "51.58861"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

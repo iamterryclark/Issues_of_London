@@ -1,0 +1,38 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Hammersmith and Fulham",
+    "Site": {
+      "@SiteCode": "HF4",
+      "@Longitude": "-0.224670007031603",
+      "@Latitude": "51.5045625671557",
+      "@SiteName": "Hammersmith and Fulham - Shepherds Bush",
+      "@SiteType": "Roadside",
+      "@LatitudeWGS84": "6711035.01276",
+      "@LongitudeWGS84": "-25010.1507793",
+      "@BulletinDate": "2016-04-16 00:00:00",
+      "Species": [
+        {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "2",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@SpeciesCode": "NO2"
+        },
+        {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "PM10 Particulate",
+          "@SpeciesCode": "PM10"
+        }
+      ]
+    },
+    "@LaCentreLatitudeWGS84": "6707836.445728",
+    "@LaCentreLongitude": "-0.212088",
+    "@LocalAuthorityCode": "13",
+    "@LaCentreLongitudeWGS84": "-23609.528163",
+    "@LaCentreLatitude": "51.486674"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

@@ -1,0 +1,207 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Bexley",
+    "Site": [
+      {
+        "@SiteCode": "BQ7",
+        "@Longitude": "0.137279111232178",
+        "@Latitude": "51.4946486813055",
+        "@SiteName": "Bexley - Belvedere West",
+        "@SiteType": "Urban Background",
+        "@LatitudeWGS84": "6709278.28804",
+        "@LongitudeWGS84": "14951.9364255",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Ozone",
+            "@SpeciesCode": "O3"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "BQ8",
+        "@Longitude": "0.137279111232178",
+        "@Latitude": "51.4946486813055",
+        "@SiteName": "Bexley - Belvedere West FDMS",
+        "@SiteType": "Urban Background",
+        "@LatitudeWGS84": "6709278.28804",
+        "@LongitudeWGS84": "14951.9364255",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "PM10 Particulate",
+          "@SpeciesCode": "PM10"
+        }
+      },
+      {
+        "@SiteCode": "BX0",
+        "@Longitude": "0.158914493927518",
+        "@Latitude": "51.4906102082147",
+        "@SiteName": "Bexley - Belvedere FDMS",
+        "@SiteType": "Suburban",
+        "@LatitudeWGS84": "6708546.55118",
+        "@LongitudeWGS84": "17686.6633362",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "PM10 Particulate",
+          "@SpeciesCode": "PM10"
+        }
+      },
+      {
+        "@SiteCode": "BX1",
+        "@Longitude": "0.184877126994369",
+        "@Latitude": "51.4659832746662",
+        "@SiteName": "Bexley - Slade Green",
+        "@SiteType": "Suburban",
+        "@LatitudeWGS84": "6704140.10457",
+        "@LongitudeWGS84": "20577.2727637",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Ozone",
+            "@SpeciesCode": "O3"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "BX2",
+        "@Longitude": "0.158914493927518",
+        "@Latitude": "51.4906102082147",
+        "@SiteName": "Bexley - Belvedere",
+        "@SiteType": "Suburban",
+        "@LatitudeWGS84": "6708546.55118",
+        "@LongitudeWGS84": "17686.6633362",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "BX9",
+        "@Longitude": "0.184877126994369",
+        "@Latitude": "51.4659832746662",
+        "@SiteName": "Bexley - Slade Green FDMS",
+        "@SiteType": "Suburban",
+        "@LatitudeWGS84": "6704140.10457",
+        "@LongitudeWGS84": "20577.2727637",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "PM2.5 Particulate",
+          "@SpeciesCode": "PM25"
+        }
+      },
+      {
+        "@SiteCode": "GB0",
+        "@Longitude": "0.085606",
+        "@Latitude": "51.4563",
+        "@SiteName": "Greenwich and Bexley - Falconwood FDMS",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6702408.29265",
+        "@LongitudeWGS84": "9529.61632885",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "PM2.5 Particulate",
+          "@SpeciesCode": "PM25"
+        }
+      },
+      {
+        "@SiteCode": "GB6",
+        "@Longitude": "0.085606",
+        "@Latitude": "51.4563",
+        "@SiteName": "Greenwich and Bexley - Falconwood",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6702408.29265",
+        "@LongitudeWGS84": "9529.61632885",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Ozone",
+            "@SpeciesCode": "O3"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6699738.789844",
+    "@LaCentreLongitude": "0.14861",
+    "@LocalAuthorityCode": "3",
+    "@LaCentreLongitudeWGS84": "16543.189527",
+    "@LaCentreLatitude": "51.441355"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

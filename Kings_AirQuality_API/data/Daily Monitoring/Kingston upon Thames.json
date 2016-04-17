@@ -1,0 +1,29 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Kingston",
+    "Site": {
+      "@SiteCode": "KT3",
+      "@Longitude": "-0.302269",
+      "@Latitude": "51.413691",
+      "@SiteName": "Kingston Upon Thames - Sopwith Way",
+      "@SiteType": "Roadside",
+      "@LatitudeWGS84": "6694799.70046663",
+      "@LongitudeWGS84": "-33648.431162592",
+      "@BulletinDate": "2016-04-16 00:00:00",
+      "Species": {
+        "@IndexSource": "Measurement",
+        "@AirQualityBand": "Low",
+        "@AirQualityIndex": "1",
+        "@SpeciesDescription": "PM10 Particulate",
+        "@SpeciesCode": "PM10"
+      }
+    },
+    "@LaCentreLatitudeWGS84": "6694554.466476",
+    "@LaCentreLongitude": "-0.300443",
+    "@LocalAuthorityCode": "21",
+    "@LaCentreLongitudeWGS84": "-33445.161772",
+    "@LaCentreLatitude": "51.412317"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

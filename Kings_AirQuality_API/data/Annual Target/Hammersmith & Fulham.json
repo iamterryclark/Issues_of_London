@@ -1,0 +1,62 @@
+{"SiteObjectives": {"Site": {
+  "@SiteLink": "http://www.londonair.org.uk/london/asp/publicstats.asp?site=HF4",
+  "@SiteCode": "HF4",
+  "@DataOwner": "Hammersmith and Fulham",
+  "@Longitude": "-0.224670007031603",
+  "@Latitude": "51.5045625671557",
+  "@SiteName": "Hammersmith and Fulham - Shepherds Bush",
+  "@DataManager": "King's College London",
+  "@SiteType": "Roadside",
+  "@LatitudeWGS84": "6711035.01276",
+  "@LongitudeWGS84": "-25010.1507793",
+  "Objective": [
+    {
+      "@SpeciesDescription": "PM10 (not reference equiv.)",
+      "@Year": "2016",
+      "@ObjectiveName": "40 ug/m3 as an annual mean",
+      "@SpeciesCode": "DUST",
+      "@Achieved": "YES",
+      "@Value": "32"
+    },
+    {
+      "@SpeciesDescription": "PM10 (not reference equiv.)",
+      "@Year": "2016",
+      "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+      "@SpeciesCode": "DUST",
+      "@Achieved": "YES",
+      "@Value": "8"
+    },
+    {
+      "@SpeciesDescription": "Nitrogen Dioxide",
+      "@Year": "2016",
+      "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
+      "@SpeciesCode": "NO2",
+      "@Achieved": "YES",
+      "@Value": "2"
+    },
+    {
+      "@SpeciesDescription": "Nitrogen Dioxide",
+      "@Year": "2016",
+      "@ObjectiveName": "40 ug/m3 as an annual mean",
+      "@SpeciesCode": "NO2",
+      "@Achieved": "NO",
+      "@Value": "72"
+    },
+    {
+      "@SpeciesDescription": "PM10 Particulate",
+      "@Year": "2016",
+      "@ObjectiveName": "40 ug/m3 as an annual mean",
+      "@SpeciesCode": "PM10",
+      "@Achieved": "YES",
+      "@Value": "28"
+    },
+    {
+      "@SpeciesDescription": "PM10 Particulate",
+      "@Year": "2016",
+      "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
+      "@SpeciesCode": "PM10",
+      "@Achieved": "YES",
+      "@Value": "6"
+    }
+  ]
+}}}

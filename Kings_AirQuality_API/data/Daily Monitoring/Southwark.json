@@ -1,0 +1,64 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Southwark",
+    "Site": [
+      {
+        "@SiteCode": "SK5",
+        "@Longitude": "-0.0595528932573422",
+        "@Latitude": "51.4804994936467",
+        "@SiteName": "Southwark - A2 Old Kent Road",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6706732.70383",
+        "@LongitudeWGS84": "-6629.39775267",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "2",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@SpeciesCode": "NO2"
+        }
+      },
+      {
+        "@SiteCode": "SK6",
+        "@Longitude": "-0.101527038274853",
+        "@Latitude": "51.4931557048667",
+        "@SiteName": "Southwark - Elephant and Castle",
+        "@SiteType": "Urban Background",
+        "@LatitudeWGS84": "6700704.67529806",
+        "@LongitudeWGS84": "-11301.9382025058",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Ozone",
+            "@SpeciesCode": "O3"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6710527.557503",
+    "@LaCentreLongitude": "-0.097993",
+    "@LocalAuthorityCode": "28",
+    "@LaCentreLongitudeWGS84": "-10908.530861",
+    "@LaCentreLatitude": "51.501725"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

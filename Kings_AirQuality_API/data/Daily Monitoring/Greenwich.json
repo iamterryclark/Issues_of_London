@@ -1,0 +1,257 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Greenwich",
+    "Site": [
+      {
+        "@SiteCode": "GN0",
+        "@Longitude": "0.074003",
+        "@Latitude": "51.490532",
+        "@SiteName": "Greenwich - A206 Burrage Grove",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6708526.16964",
+        "@LongitudeWGS84": "8237.97627717",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM2.5 Particulate",
+            "@SpeciesCode": "PM25"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "GN2",
+        "@Longitude": "0.017697",
+        "@Latitude": "51.492571",
+        "@SiteName": "Greenwich - Millennium Village",
+        "@SiteType": "Industrial",
+        "@LatitudeWGS84": "6708890.72071",
+        "@LongitudeWGS84": "1970.02102857",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM2.5 Particulate",
+            "@SpeciesCode": "PM25"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "GN3",
+        "@Longitude": "0.095111",
+        "@Latitude": "51.486957",
+        "@SiteName": "Greenwich - Plumstead High Street",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6707887.0378",
+        "@LongitudeWGS84": "10587.7080888",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Ozone",
+            "@SpeciesCode": "O3"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "GN4",
+        "@Longitude": "0.0642224671704697",
+        "@Latitude": "51.4346627060562",
+        "@SiteName": "Greenwich - Fiveways Sidcup Rd A20",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6702412.5486",
+        "@LongitudeWGS84": "4535.53633525",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "GR4",
+        "@Longitude": "0.070766",
+        "@Latitude": "51.45258",
+        "@SiteName": "Greenwich - Eltham",
+        "@SiteType": "Suburban",
+        "@LatitudeWGS84": "6701743.73787",
+        "@LongitudeWGS84": "7877.63508548",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Ozone",
+            "@SpeciesCode": "O3"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM2.5 Particulate",
+            "@SpeciesCode": "PM25"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "GR7",
+        "@Longitude": "-0.012381",
+        "@Latitude": "51.472504",
+        "@SiteName": "Greenwich - Blackheath",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6705303.66805",
+        "@LongitudeWGS84": "-1378.24661551",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "GR8",
+        "@Longitude": "0.017901",
+        "@Latitude": "51.486884",
+        "@SiteName": "Greenwich - Woolwich Flyover",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6707873.98752",
+        "@LongitudeWGS84": "1992.73020469",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Ozone",
+            "@SpeciesCode": "O3"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "GR9",
+        "@Longitude": "0.040725",
+        "@Latitude": "51.456357",
+        "@SiteName": "Greenwich - Westhorne Avenue",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6702418.47577",
+        "@LongitudeWGS84": "4533.48626256",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Ozone",
+            "@SpeciesCode": "O3"
+          }
+        ]
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6706427.144723",
+    "@LaCentreLongitude": "-0.010677",
+    "@LocalAuthorityCode": "11",
+    "@LaCentreLongitudeWGS84": "-1188.558203",
+    "@LaCentreLatitude": "51.47879"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}

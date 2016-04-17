@@ -1,0 +1,81 @@
+{"DailyAirQualityIndex": {
+  "LocalAuthority": {
+    "@LocalAuthorityName": "Brent",
+    "Site": [
+      {
+        "@SiteCode": "BT4",
+        "@Longitude": "-0.258089",
+        "@Latitude": "51.552476",
+        "@SiteName": "Brent - Ikea",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6719608.36938",
+        "@LongitudeWGS84": "-28730.3360593",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Ozone",
+            "@SpeciesCode": "O3"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
+      },
+      {
+        "@SiteCode": "BT5",
+        "@Longitude": "-0.248774",
+        "@Latitude": "51.552656",
+        "@SiteName": "Brent - Neasden Lane",
+        "@SiteType": "Industrial",
+        "@LatitudeWGS84": "6719640.59457",
+        "@LongitudeWGS84": "-27693.3950026",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "PM10 Particulate",
+          "@SpeciesCode": "PM10"
+        }
+      },
+      {
+        "@SiteCode": "BT6",
+        "@Longitude": "-0.247793",
+        "@Latitude": "51.537799",
+        "@SiteName": "Brent - John Keble Primary School",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6716981.19188",
+        "@LongitudeWGS84": "-27584.1905821",
+        "@BulletinDate": "2016-04-16 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "1",
+          "@SpeciesDescription": "PM10 Particulate",
+          "@SpeciesCode": "PM10"
+        }
+      }
+    ],
+    "@LaCentreLatitudeWGS84": "6719568.804179",
+    "@LaCentreLongitude": "-0.30262",
+    "@LocalAuthorityCode": "4",
+    "@LaCentreLongitudeWGS84": "-33687.504304",
+    "@LaCentreLatitude": "51.552255"
+  },
+  "@MonitoringIndexDate": "2016-04-16 00:00:00",
+  "@TimeToLive": "55"
+}}
