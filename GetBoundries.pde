@@ -1,9 +1,11 @@
 class GetBoundries {
   PApplet applet;
-  List<Feature>[] innerBoroughs;
-  List<Feature>[] outerBoroughs;
-  List<Marker> innerLondonBoroughMarkers;
-  List<Marker> outerLondonBoroughMarkers;
+  
+  //Features from unfolding map
+  List<Feature> innerBoroughs; //Holds all GEOJSON Info for inner boroughs
+  List<Feature> outerBoroughs; //Holds all GEOJSON Info for outer boroughs
+  List<Marker> innerLondonBoroughMarkers; //Plots all points for inner boroughs from GEOJSON
+  List<Marker> outerLondonBoroughMarkers; //Plots all points for outer boroughs from GEOJSON
 
   //Inner London lists for getting geo.json files 
   String[] innerLondonList = { 
@@ -36,12 +38,7 @@ class GetBoundries {
   };
 
   GetBoundries(PApplet applet) {
-    this.applet = applet;
-    innerLondonBoroughMarkers = new ArrayList<Marker>();
-    innerBoroughs = new List[innerBoroughTotal];
-
-    outerLondonBoroughMarkers = new ArrayList<Marker>();
-    outerBoroughs = new List[outerBoroughTotal];
+    this.applet = applet; //Links this module to the application's directory so it can locate files
   }
 
   void run() {
@@ -51,26 +48,28 @@ class GetBoundries {
 
   void outerBoroughs() {
     //Outer London Points
-    for (int i = 0; i < outerBoroughs.length; i++) {
-      outerBoroughs[i] = GeoJSONReader.loadData(applet, "data/GreaterLondon/outer-london/" + outerLondonList[i] + ".geo.json");
+    for (int i = 0; i < outerBoroughTotal; i++) {
+      //Reads each of the GEOJSON Files
+      outerBoroughs = GeoJSONReader.loadData(applet, "data/GreaterLondon/outer-london/" + outerLondonList[i] + ".geo.json");
 
-      outerLondonBoroughMarkers = MapUtils.createSimpleMarkers(outerBoroughs[i]);
+      //Inits markers on the map
+      outerLondonBoroughMarkers = MapUtils.createSimpleMarkers(outerBoroughs);
+      //Adds markers to the map
       map.addMarkers(outerLondonBoroughMarkers);
       for (Marker marker : outerLondonBoroughMarkers) {
-        marker.setId(outerLondonListMatch[i]);
-        marker.setColor(color(255, 255, 255, 200));
-        marker.setStrokeWeight(2);
+        marker.setId(outerLondonListMatch[i]); //Used to identify borough
+        marker.setColor(color(255, 255, 255, 200)); // Used to color borough
+        marker.setStrokeWeight(2); //boundry stroke
       }
     }
   }
 
   void innerBoroughs() {
-    
     //Inner London Markers
-    for (int i = 0; i < innerBoroughs.length; i ++) {
-      innerBoroughs[i] = GeoJSONReader.loadData(applet, "data/GreaterLondon/inner-london/" + innerLondonList[i] + ".geo.json");
+    for (int i = 0; i < innerBoroughTotal; i ++) {
+      innerBoroughs = GeoJSONReader.loadData(applet, "data/GreaterLondon/inner-london/" + innerLondonList[i] + ".geo.json");
 
-      innerLondonBoroughMarkers = MapUtils.createSimpleMarkers(innerBoroughs[i]);
+      innerLondonBoroughMarkers = MapUtils.createSimpleMarkers(innerBoroughs);
       map.addMarkers(innerLondonBoroughMarkers);
       for (Marker marker : innerLondonBoroughMarkers) {
         marker.setId(innerLondonListMatch[i]);
@@ -79,4 +78,6 @@ class GetBoundries {
       }
     }
   }
+  
+
 }

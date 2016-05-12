@@ -10,7 +10,7 @@
         "@SiteType": "Kerbside",
         "@LatitudeWGS84": "6694381.70052",
         "@LongitudeWGS84": "-13704.5425116",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": {
           "@IndexSource": "Measurement",
           "@AirQualityBand": "Low",
@@ -27,11 +27,11 @@
         "@SiteType": "Roadside",
         "@LatitudeWGS84": "6687714.0876655",
         "@LongitudeWGS84": "-10771.7986892368",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": {
           "@IndexSource": "Measurement",
           "@AirQualityBand": "Low",
-          "@AirQualityIndex": "2",
+          "@AirQualityIndex": "3",
           "@SpeciesDescription": "Nitrogen Dioxide",
           "@SpeciesCode": "NO2"
         }
@@ -43,6 +43,6 @@
     "@LaCentreLongitudeWGS84": "-11176.588195",
     "@LaCentreLatitude": "51.372361"
   },
-  "@MonitoringIndexDate": "2016-04-16 00:00:00",
-  "@TimeToLive": "55"
+  "@MonitoringIndexDate": "2016-04-23 00:00:00",
+  "@TimeToLive": "31"
 }}

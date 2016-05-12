@@ -9,7 +9,7 @@
       "@SiteType": "Roadside",
       "@LatitudeWGS84": "6711035.01276",
       "@LongitudeWGS84": "-25010.1507793",
-      "@BulletinDate": "2016-04-16 00:00:00",
+      "@BulletinDate": "2016-04-23 00:00:00",
       "Species": [
         {
           "@IndexSource": "Measurement",
@@ -21,7 +21,7 @@
         {
           "@IndexSource": "Measurement",
           "@AirQualityBand": "Low",
-          "@AirQualityIndex": "1",
+          "@AirQualityIndex": "2",
           "@SpeciesDescription": "PM10 Particulate",
           "@SpeciesCode": "PM10"
         }
@@ -33,6 +33,6 @@
     "@LaCentreLongitudeWGS84": "-23609.528163",
     "@LaCentreLatitude": "51.486674"
   },
-  "@MonitoringIndexDate": "2016-04-16 00:00:00",
-  "@TimeToLive": "55"
+  "@MonitoringIndexDate": "2016-04-23 00:00:00",
+  "@TimeToLive": "31"
 }}

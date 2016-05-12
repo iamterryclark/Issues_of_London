@@ -9,7 +9,7 @@
       "@SiteType": "Suburban",
       "@LatitudeWGS84": "6709559.07689",
       "@LongitudeWGS84": "-51298.9156643",
-      "@BulletinDate": "2016-04-16 00:00:00",
+      "@BulletinDate": "2016-04-23 00:00:00",
       "Species": [
         {
           "@IndexSource": "Measurement",
@@ -21,7 +21,7 @@
         {
           "@IndexSource": "Measurement",
           "@AirQualityBand": "Low",
-          "@AirQualityIndex": "2",
+          "@AirQualityIndex": "3",
           "@SpeciesDescription": "Ozone",
           "@SpeciesCode": "O3"
         }
@@ -33,6 +33,6 @@
     "@LaCentreLongitudeWGS84": "-50379.639309",
     "@LaCentreLatitude": "51.533411"
   },
-  "@MonitoringIndexDate": "2016-04-16 00:00:00",
-  "@TimeToLive": "55"
+  "@MonitoringIndexDate": "2016-04-23 00:00:00",
+  "@TimeToLive": "31"
 }}

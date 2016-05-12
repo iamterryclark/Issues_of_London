@@ -10,7 +10,7 @@
         "@SiteType": "Kerbside",
         "@LatitudeWGS84": "6703810.46654",
         "@LongitudeWGS84": "-12751.5363509",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
@@ -36,14 +36,23 @@
         "@SiteType": "Industrial",
         "@LatitudeWGS84": "6707629.96897",
         "@LongitudeWGS84": "-13860.2784792",
-        "@BulletinDate": "2016-04-16 00:00:00",
-        "Species": {
-          "@IndexSource": "Measurement",
-          "@AirQualityBand": "Low",
-          "@AirQualityIndex": "2",
-          "@SpeciesDescription": "Nitrogen Dioxide",
-          "@SpeciesCode": "NO2"
-        }
+        "@BulletinDate": "2016-04-23 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "1",
+            "@SpeciesDescription": "Sulphur Dioxide",
+            "@SpeciesCode": "SO2"
+          }
+        ]
       },
       {
         "@SiteCode": "LB6",
@@ -53,12 +62,12 @@
         "@SiteType": "Urban Background",
         "@LatitudeWGS84": "6697392.0894",
         "@LongitudeWGS84": "-14679.5497223",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
             "@AirQualityBand": "Low",
-            "@AirQualityIndex": "1",
+            "@AirQualityIndex": "2",
             "@SpeciesDescription": "Nitrogen Dioxide",
             "@SpeciesCode": "NO2"
           },
@@ -78,6 +87,6 @@
     "@LaCentreLongitudeWGS84": "-12319.728046",
     "@LaCentreLatitude": "51.489112"
   },
-  "@MonitoringIndexDate": "2016-04-16 00:00:00",
-  "@TimeToLive": "55"
+  "@MonitoringIndexDate": "2016-04-23 00:00:00",
+  "@TimeToLive": "30"
 }}

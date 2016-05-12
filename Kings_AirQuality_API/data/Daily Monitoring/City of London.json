@@ -10,7 +10,7 @@
         "@SiteType": "Urban Background",
         "@LatitudeWGS84": "6712695.6436",
         "@LongitudeWGS84": "-8656.83609382",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
@@ -36,7 +36,7 @@
         "@SiteType": "Roadside",
         "@LatitudeWGS84": "6713836.61564",
         "@LongitudeWGS84": "-10698.4762607",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
@@ -48,7 +48,7 @@
           {
             "@IndexSource": "Measurement",
             "@AirQualityBand": "Low",
-            "@AirQualityIndex": "1",
+            "@AirQualityIndex": "2",
             "@SpeciesDescription": "PM10 Particulate",
             "@SpeciesCode": "PM10"
           }
@@ -62,7 +62,7 @@
         "@SiteType": "Roadside",
         "@LatitudeWGS84": "6712096.7547",
         "@LongitudeWGS84": "-10200.6502194",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": {
           "@IndexSource": "Measurement",
           "@AirQualityBand": "Low",
@@ -79,11 +79,11 @@
         "@SiteType": "Roadside",
         "@LatitudeWGS84": "6711925.88559",
         "@LongitudeWGS84": "-9724.55879355",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": {
           "@IndexSource": "Measurement",
           "@AirQualityBand": "Low",
-          "@AirQualityIndex": "1",
+          "@AirQualityIndex": "2",
           "@SpeciesDescription": "PM10 Particulate",
           "@SpeciesCode": "PM10"
         }
@@ -95,6 +95,6 @@
     "@LaCentreLongitudeWGS84": "-9901.534748",
     "@LaCentreLatitude": "51.51333"
   },
-  "@MonitoringIndexDate": "2016-04-16 00:00:00",
-  "@TimeToLive": "55"
+  "@MonitoringIndexDate": "2016-04-23 00:00:00",
+  "@TimeToLive": "31"
 }}

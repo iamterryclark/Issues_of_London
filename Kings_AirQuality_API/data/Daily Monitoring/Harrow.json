@@ -10,12 +10,12 @@
         "@SiteType": "Urban Background",
         "@LatitudeWGS84": "6731226.83276",
         "@LongitudeWGS84": "-33259.4808618",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
             "@AirQualityBand": "Low",
-            "@AirQualityIndex": "1",
+            "@AirQualityIndex": "2",
             "@SpeciesDescription": "Nitrogen Dioxide",
             "@SpeciesCode": "NO2"
           },
@@ -43,12 +43,12 @@
         "@SiteType": "Roadside",
         "@LatitudeWGS84": "6726045.37632",
         "@LongitudeWGS84": "-40407.7506436",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
             "@AirQualityBand": "Low",
-            "@AirQualityIndex": "1",
+            "@AirQualityIndex": "2",
             "@SpeciesDescription": "Nitrogen Dioxide",
             "@SpeciesCode": "NO2"
           },
@@ -68,6 +68,6 @@
     "@LaCentreLongitudeWGS84": "-37153.993247",
     "@LaCentreLatitude": "51.578809"
   },
-  "@MonitoringIndexDate": "2016-04-16 00:00:00",
-  "@TimeToLive": "55"
+  "@MonitoringIndexDate": "2016-04-23 00:00:00",
+  "@TimeToLive": "31"
 }}

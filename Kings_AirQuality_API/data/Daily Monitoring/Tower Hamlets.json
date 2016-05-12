@@ -10,7 +10,7 @@
         "@SiteType": "Roadside",
         "@LatitudeWGS84": "6714255.02857",
         "@LongitudeWGS84": "-4688.33167425",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": {
           "@IndexSource": "Measurement",
           "@AirQualityBand": "Low",
@@ -27,7 +27,7 @@
         "@SiteType": "Roadside",
         "@LatitudeWGS84": "6712915.63292",
         "@LongitudeWGS84": "-933.636569283",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
@@ -47,48 +47,8 @@
             "@IndexSource": "Measurement",
             "@AirQualityBand": "Low",
             "@AirQualityIndex": "1",
-            "@SpeciesDescription": "PM10 Particulate",
-            "@SpeciesCode": "PM10"
-          },
-          {
-            "@IndexSource": "Measurement",
-            "@AirQualityBand": "Low",
-            "@AirQualityIndex": "1",
             "@SpeciesDescription": "PM2.5 Particulate",
             "@SpeciesCode": "PM25"
-          }
-        ]
-      },
-      {
-        "@SiteCode": "TH5",
-        "@Longitude": "-0.033307388878",
-        "@Latitude": "51.5405194915241",
-        "@SiteName": "Tower Hamlets - Victoria Park",
-        "@SiteType": "Urban Background",
-        "@LatitudeWGS84": "6717468.09487173",
-        "@LongitudeWGS84": "-3707.7615695525",
-        "@BulletinDate": "2016-04-16 00:00:00",
-        "Species": [
-          {
-            "@IndexSource": "Measurement",
-            "@AirQualityBand": "Low",
-            "@AirQualityIndex": "1",
-            "@SpeciesDescription": "Nitrogen Dioxide",
-            "@SpeciesCode": "NO2"
-          },
-          {
-            "@IndexSource": "Measurement",
-            "@AirQualityBand": "Low",
-            "@AirQualityIndex": "1",
-            "@SpeciesDescription": "PM10 Particulate",
-            "@SpeciesCode": "PM10"
-          },
-          {
-            "@IndexSource": "Measurement",
-            "@AirQualityBand": "Low",
-            "@AirQualityIndex": "1",
-            "@SpeciesDescription": "Sulphur Dioxide",
-            "@SpeciesCode": "SO2"
           }
         ]
       },
@@ -100,7 +60,7 @@
         "@SiteType": "Urban Background",
         "@LatitudeWGS84": "6708276.27893065",
         "@LongitudeWGS84": "-1444.5853446565",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
@@ -112,7 +72,7 @@
           {
             "@IndexSource": "Measurement",
             "@AirQualityBand": "Low",
-            "@AirQualityIndex": "2",
+            "@AirQualityIndex": "3",
             "@SpeciesDescription": "Ozone",
             "@SpeciesCode": "O3"
           }
@@ -125,6 +85,6 @@
     "@LaCentreLongitudeWGS84": "-3028.780706",
     "@LaCentreLatitude": "51.523244"
   },
-  "@MonitoringIndexDate": "2016-04-16 00:00:00",
-  "@TimeToLive": "54"
+  "@MonitoringIndexDate": "2016-04-23 00:00:00",
+  "@TimeToLive": "30"
 }}

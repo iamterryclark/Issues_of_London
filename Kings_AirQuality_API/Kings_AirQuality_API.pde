@@ -33,7 +33,7 @@ void setup() {
   background(0);
   textSize(40);
   textAlign(CENTER);
-  text("Saved All JSON and XML Data", width/2, height/3 - 40);
+  text("Saved All London AirQuality Data", width/2, height/3 - 40);
   text("Data Collection Complete", width/2, 2 * height/3 - 60);
   text("Please run Issues_of_London program", width/2, 3 * height/3 - 80);
 }

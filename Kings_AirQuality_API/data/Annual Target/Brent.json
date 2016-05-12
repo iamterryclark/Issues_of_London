@@ -95,7 +95,7 @@
         "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
         "@SpeciesCode": "DUST",
         "@Achieved": "YES",
-        "@Value": "23"
+        "@Value": "24"
       },
       {
         "@SpeciesDescription": "PM10 Particulate",
@@ -111,7 +111,7 @@
         "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
         "@SpeciesCode": "PM10",
         "@Achieved": "YES",
-        "@Value": "11"
+        "@Value": "12"
       }
     ]
   },

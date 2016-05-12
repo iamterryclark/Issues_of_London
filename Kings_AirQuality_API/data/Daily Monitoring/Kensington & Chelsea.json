@@ -10,19 +10,19 @@
         "@SiteType": "Urban Background",
         "@LatitudeWGS84": "6713983.58013",
         "@LongitudeWGS84": "-23765.836267",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
             "@AirQualityBand": "Low",
-            "@AirQualityIndex": "1",
+            "@AirQualityIndex": "2",
             "@SpeciesDescription": "Nitrogen Dioxide",
             "@SpeciesCode": "NO2"
           },
           {
             "@IndexSource": "Measurement",
             "@AirQualityBand": "Low",
-            "@AirQualityIndex": "2",
+            "@AirQualityIndex": "3",
             "@SpeciesDescription": "Ozone",
             "@SpeciesCode": "O3"
           },
@@ -50,12 +50,12 @@
         "@SiteType": "Roadside",
         "@LatitudeWGS84": "6709415.12178",
         "@LongitudeWGS84": "-19904.9784815",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
             "@AirQualityBand": "Low",
-            "@AirQualityIndex": "1",
+            "@AirQualityIndex": "2",
             "@SpeciesDescription": "Nitrogen Dioxide",
             "@SpeciesCode": "NO2"
           },
@@ -76,6 +76,23 @@
         ]
       },
       {
+        "@SiteCode": "KC3",
+        "@Longitude": "-0.164337605",
+        "@Latitude": "51.49913951",
+        "@SiteName": "Kensington and Chelsea - Knightsbridge",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6710065.20988",
+        "@LongitudeWGS84": "-18293.9785068",
+        "@BulletinDate": "2016-04-23 00:00:00",
+        "Species": {
+          "@IndexSource": "Measurement",
+          "@AirQualityBand": "Low",
+          "@AirQualityIndex": "3",
+          "@SpeciesDescription": "Nitrogen Dioxide",
+          "@SpeciesCode": "NO2"
+        }
+      },
+      {
         "@SiteCode": "KC4",
         "@Longitude": "-0.168397129",
         "@Latitude": "51.48743685",
@@ -83,7 +100,7 @@
         "@SiteType": "Roadside",
         "@LatitudeWGS84": "6707972.82158",
         "@LongitudeWGS84": "-18745.8826513",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": {
           "@IndexSource": "Measurement",
           "@AirQualityBand": "Low",
@@ -100,7 +117,7 @@
         "@SiteType": "Kerbside",
         "@LatitudeWGS84": "6708466.37696",
         "@LongitudeWGS84": "-21246.8065916",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": {
           "@IndexSource": "Measurement",
           "@AirQualityBand": "Low",
@@ -117,7 +134,7 @@
         "@SiteType": "Urban Background",
         "@LatitudeWGS84": "6713986.93682",
         "@LongitudeWGS84": "-23760.7189562",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": {
           "@IndexSource": "Measurement",
           "@AirQualityBand": "Low",
@@ -133,6 +150,6 @@
     "@LaCentreLongitudeWGS84": "-21250.334195",
     "@LaCentreLatitude": "51.501886"
   },
-  "@MonitoringIndexDate": "2016-04-16 00:00:00",
-  "@TimeToLive": "55"
+  "@MonitoringIndexDate": "2016-04-23 00:00:00",
+  "@TimeToLive": "30"
 }}

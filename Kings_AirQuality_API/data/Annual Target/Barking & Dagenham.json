@@ -25,7 +25,7 @@
         "@ObjectiveName": "40 ug/m3 as an annual mean",
         "@SpeciesCode": "NO2",
         "@Achieved": "YES",
-        "@Value": "29"
+        "@Value": "28"
       },
       {
         "@SpeciesDescription": "Sulphur Dioxide",
@@ -95,7 +95,7 @@
         "@ObjectiveName": "40 ug/m3 as an annual mean",
         "@SpeciesCode": "NO2",
         "@Achieved": "YES",
-        "@Value": "37"
+        "@Value": "38"
       },
       {
         "@SpeciesDescription": "PM10 Particulate",

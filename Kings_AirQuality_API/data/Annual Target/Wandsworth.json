@@ -103,7 +103,7 @@
         "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
         "@SpeciesCode": "NO2",
         "@Achieved": "NO",
-        "@Value": "306"
+        "@Value": "332"
       },
       {
         "@SpeciesDescription": "Nitrogen Dioxide",
@@ -111,7 +111,7 @@
         "@ObjectiveName": "40 ug/m3 as an annual mean",
         "@SpeciesCode": "NO2",
         "@Achieved": "NO",
-        "@Value": "100"
+        "@Value": "101"
       },
       {
         "@SpeciesDescription": "PM10 Particulate",
@@ -119,7 +119,7 @@
         "@ObjectiveName": "40 ug/m3 as an annual mean",
         "@SpeciesCode": "PM10",
         "@Achieved": "YES",
-        "@Value": "26"
+        "@Value": "25"
       },
       {
         "@SpeciesDescription": "PM10 Particulate",
@@ -149,7 +149,7 @@
         "@ObjectiveName": "200 ug/m3 as a 1 hour mean, not to be exceeded more than 18 times a year",
         "@SpeciesCode": "NO2",
         "@Achieved": "NO",
-        "@Value": "108"
+        "@Value": "110"
       },
       {
         "@SpeciesDescription": "Nitrogen Dioxide",
@@ -249,7 +249,7 @@
         "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
         "@SpeciesCode": "DUST",
         "@Achieved": "YES",
-        "@Value": "18"
+        "@Value": "20"
       },
       {
         "@SpeciesDescription": "Nitrogen Dioxide",
@@ -281,7 +281,7 @@
         "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
         "@SpeciesCode": "PM10",
         "@Achieved": "YES",
-        "@Value": "15"
+        "@Value": "16"
       }
     ]
   },
@@ -353,7 +353,7 @@
     "@DataOwner": "Wandsworth",
     "@Longitude": "-0.166713485994806",
     "@Latitude": "51.4636903568111",
-    "@SiteName": "Wandsworth - Clapham",
+    "@SiteName": "Wandsworth - Lavender Hill (Clapham Jct)",
     "@DataManager": "King's College London",
     "@SiteType": "Roadside",
     "@LatitudeWGS84": "",
@@ -365,7 +365,7 @@
         "@ObjectiveName": "40 ug/m3 as an annual mean",
         "@SpeciesCode": "DUST",
         "@Achieved": "YES",
-        "@Value": "20"
+        "@Value": "26"
       },
       {
         "@SpeciesDescription": "PM10 (not reference equiv.)",
@@ -389,7 +389,7 @@
         "@ObjectiveName": "40 ug/m3 as an annual mean",
         "@SpeciesCode": "NO2",
         "@Achieved": "NO",
-        "@Value": "48"
+        "@Value": "50"
       },
       {
         "@SpeciesDescription": "PM10 Particulate",
@@ -397,7 +397,7 @@
         "@ObjectiveName": "40 ug/m3 as an annual mean",
         "@SpeciesCode": "PM10",
         "@Achieved": "YES",
-        "@Value": "21"
+        "@Value": "24"
       },
       {
         "@SpeciesDescription": "PM10 Particulate",

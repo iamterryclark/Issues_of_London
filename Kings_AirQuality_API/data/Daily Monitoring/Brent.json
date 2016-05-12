@@ -10,7 +10,7 @@
         "@SiteType": "Roadside",
         "@LatitudeWGS84": "6719608.36938",
         "@LongitudeWGS84": "-28730.3360593",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
@@ -22,7 +22,7 @@
           {
             "@IndexSource": "Measurement",
             "@AirQualityBand": "Low",
-            "@AirQualityIndex": "2",
+            "@AirQualityIndex": "1",
             "@SpeciesDescription": "Ozone",
             "@SpeciesCode": "O3"
           },
@@ -43,7 +43,7 @@
         "@SiteType": "Industrial",
         "@LatitudeWGS84": "6719640.59457",
         "@LongitudeWGS84": "-27693.3950026",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": {
           "@IndexSource": "Measurement",
           "@AirQualityBand": "Low",
@@ -60,7 +60,7 @@
         "@SiteType": "Roadside",
         "@LatitudeWGS84": "6716981.19188",
         "@LongitudeWGS84": "-27584.1905821",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": {
           "@IndexSource": "Measurement",
           "@AirQualityBand": "Low",
@@ -76,6 +76,6 @@
     "@LaCentreLongitudeWGS84": "-33687.504304",
     "@LaCentreLatitude": "51.552255"
   },
-  "@MonitoringIndexDate": "2016-04-16 00:00:00",
-  "@TimeToLive": "55"
+  "@MonitoringIndexDate": "2016-04-23 00:00:00",
+  "@TimeToLive": "31"
 }}

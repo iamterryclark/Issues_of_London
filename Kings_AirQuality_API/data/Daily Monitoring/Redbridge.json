@@ -10,7 +10,7 @@
         "@SiteType": "Roadside",
         "@LatitudeWGS84": "6723930.18984",
         "@LongitudeWGS84": "3435.0968469",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": {
           "@IndexSource": "Measurement",
           "@AirQualityBand": "Low",
@@ -27,7 +27,7 @@
         "@SiteType": "Urban Background",
         "@LatitudeWGS84": "6722606.75352",
         "@LongitudeWGS84": "9108.2720562",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
@@ -52,6 +52,6 @@
     "@LaCentreLongitudeWGS84": "9172.503402",
     "@LaCentreLatitude": "51.58861"
   },
-  "@MonitoringIndexDate": "2016-04-16 00:00:00",
-  "@TimeToLive": "55"
+  "@MonitoringIndexDate": "2016-04-23 00:00:00",
+  "@TimeToLive": "30"
 }}

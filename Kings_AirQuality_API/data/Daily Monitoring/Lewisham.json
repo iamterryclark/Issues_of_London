@@ -10,21 +10,14 @@
         "@SiteType": "Urban Background",
         "@LatitudeWGS84": "6700473.37417",
         "@LongitudeWGS84": "-2256.00080042",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
             "@AirQualityBand": "Low",
-            "@AirQualityIndex": "1",
+            "@AirQualityIndex": "2",
             "@SpeciesDescription": "Nitrogen Dioxide",
             "@SpeciesCode": "NO2"
-          },
-          {
-            "@IndexSource": "Measurement",
-            "@AirQualityBand": "Low",
-            "@AirQualityIndex": "1",
-            "@SpeciesDescription": "Ozone",
-            "@SpeciesCode": "O3"
           },
           {
             "@IndexSource": "Measurement",
@@ -43,7 +36,7 @@
         "@SiteType": "Roadside",
         "@LatitudeWGS84": "6705741.5303",
         "@LongitudeWGS84": "-4412.81593454",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
@@ -74,6 +67,32 @@
             "@SpeciesCode": "SO2"
           }
         ]
+      },
+      {
+        "@SiteCode": "LW4",
+        "@Longitude": "-0.016068243204",
+        "@Latitude": "51.4646910611736",
+        "@SiteName": "Lewisham - Loampit Vale",
+        "@SiteType": "Roadside",
+        "@LatitudeWGS84": "6703907.50224776",
+        "@LongitudeWGS84": "-1788.70865141176",
+        "@BulletinDate": "2016-04-23 00:00:00",
+        "Species": [
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "Nitrogen Dioxide",
+            "@SpeciesCode": "NO2"
+          },
+          {
+            "@IndexSource": "Measurement",
+            "@AirQualityBand": "Low",
+            "@AirQualityIndex": "2",
+            "@SpeciesDescription": "PM10 Particulate",
+            "@SpeciesCode": "PM10"
+          }
+        ]
       }
     ],
     "@LaCentreLatitudeWGS84": "6702511.73226",
@@ -82,6 +101,6 @@
     "@LaCentreLongitudeWGS84": "-1777.104351",
     "@LaCentreLatitude": "51.456879"
   },
-  "@MonitoringIndexDate": "2016-04-16 00:00:00",
-  "@TimeToLive": "55"
+  "@MonitoringIndexDate": "2016-04-23 00:00:00",
+  "@TimeToLive": "30"
 }}

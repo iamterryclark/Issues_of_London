@@ -25,7 +25,7 @@
         "@ObjectiveName": "40 ug/m3 as an annual mean",
         "@SpeciesCode": "NO2",
         "@Achieved": "NO",
-        "@Value": "48"
+        "@Value": "47"
       },
       {
         "@SpeciesDescription": "Ozone",
@@ -203,7 +203,7 @@
         "@ObjectiveName": "50 ug/m3 as a 24 hour mean, not to be exceeded more than 35 times a year",
         "@SpeciesCode": "DUST",
         "@Achieved": "YES",
-        "@Value": "6"
+        "@Value": "7"
       },
       {
         "@SpeciesDescription": "Nitrogen Dioxide",
@@ -219,7 +219,7 @@
         "@ObjectiveName": "40 ug/m3 as an annual mean",
         "@SpeciesCode": "NO2",
         "@Achieved": "NO",
-        "@Value": "62"
+        "@Value": "63"
       },
       {
         "@SpeciesDescription": "PM10 Particulate",

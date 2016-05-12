@@ -1,21 +1,24 @@
 /* 
-
+ 
  Reference: 
  - Drawing maps : http://unfoldingmaps.org/tutorials/basic-how-to-use-unfolding.html
  - How to structure Data : http://geojson.org/
  - GEO JSON Data found @ : https://github.com/utisz/compound-cities
  - London Air Quality Data API : http://www.londonair.org.uk/LondonAir/API/
- - Council Tax Data : Baiba Fogele, a Sustainble Cities Student @ Kings College London
+ - Council Tax Data converted to JSON : Baiba Fogele, a Sustainble Cities Student @ Kings College London
  - JSON parsing from the web : http://blog.blprnt.com/blog/blprnt/processing-json-the-new-york-times
-                             : https://github.com/runemadsen/HTTP-Requests-for-Processing/blob/master/examples/jsonget/jsonget.pde
- -
+ : https://github.com/runemadsen/HTTP-Requests-for-Processing/blob/master/examples/jsonget/jsonget.pde
+ - PieChart                  : https://processing.org/examples/piechart.html
  
- Description:  A Data Visualisation using:
-              - Unfolding Maps, 
-                - API Generated JSON Files via Kings Air Quality API
-              - Manually created JSON file for Council tax data
-              - GEO JSON found on Github
-*/
+ Description: 
+ A data visualisation built with:
+ - Processing v2.0
+ - Unfolding Maps
+ - Converted CSV Information to JSON regarding Council Tax Distribution (thanks to @baibaff, original source to be provided later)
+ - London Air Quality API
+ - Geo JSON information of all London Borough thanks to @utisz
+ 
+ */
 
 import de.fhpotsdam.unfolding.*;
 import de.fhpotsdam.unfolding.geo.*;
@@ -26,30 +29,29 @@ import de.fhpotsdam.unfolding.providers.*;
 import java.util.List;
 import java.util.Map;
 
+GetBoundries getBoundries;//Will take all GeoJSON data
+UIBox uiBox; // WIll show all UI Elements
 
-GetBoundries getBoundries;
-UIBox uiBox;
+GetCTData getCTData; // Council Tax Data
+GetPolData getPolData; // Pollution Data * Run Kings AirQuality API First *
 
-GetCTData getCTData;// Council Tax Data
-GetPolData getPolData;
+CTDisplay ctDisplay; // Shows all data collated for councilTax
+PolDisplay polDisplay; // Shows all data collated for councilTax
 
-CTDisplay ctDisplay;
-//PolDisplay polDisplay;
-
-Location londonLoc = new Location(51.5, -0.1);
-UnfoldingMap map;
+Location londonLoc = new Location(51.5, -0.27); // Location for Center of London
+UnfoldingMap map; //Mapping Library
 
 PFont fontReg = createFont("Lato-Regular-11.vlw", 14);
 PFont fontBold = createFont("Lato-Bold-14.vlw", 16);
 
-
 /* Global Variables */
-
 int boroughTotal = 33;
 int innerBoroughTotal = 13;
 int outerBoroughTotal = 20;
-int currentBoroughNum;
-String currentBorough;
+
+//Sets first piece of data shown to user
+int currentBoroughNum = 0; //Will be used to help match ID to borough name
+String currentBorough = "Barking & Dagenham";
 
 String[] boroughNameMatch = { 
   "Barking & Dagenham", "Barnet", "Bexley", "Brent", "Bromley", "Camden", "City of London", "Croydon", "Ealing", 
@@ -58,35 +60,31 @@ String[] boroughNameMatch = {
   "Richmond upon Thames", "Southwark", "Sutton", "Tower Hamlets", "Waltham Forest", "Wandsworth", "Westminster"
 };
 
-boolean doItOnce = true;
-boolean loadingData = true;;
-
 void setup() {
   size(displayWidth, displayHeight, P3D);
 
-  //Unfolding Map Parametes
+  //Unfolding Map Parameters
+  //Stamen map tiles and toner added
   map = new UnfoldingMap(this, new StamenMapProvider.TonerBackground());
-  map.zoomToLevel(11);
-  map.panTo(londonLoc);
-  //map.setTweening(true);
-  map.setZoomRange(11, 17);
-  map.setPanningRestriction(londonLoc, 10);
-  MapUtils.createDefaultEventDispatcher(this, map);
+  map.zoomToLevel(11); //Sets inital zoom level
+  map.panTo(londonLoc); //Sets Centerng from start of application
+  //map.setTweening(true); // Creates smooth scroling effects but has other issues with panning
+  map.setZoomRange(11, 17); // Set total zoom range
+  map.setPanningRestriction(londonLoc, 30); //Resrticts panning left and right
+  MapUtils.createDefaultEventDispatcher(this, map); //Captures mount events for scrolling
 
   //My Classes
-  
   getBoundries = new GetBoundries(this); // Geo Json Boundry Data
   uiBox = new UIBox(); // UI Box Class
-  
-  getCTData = new GetCTData(); //To get data from JSON file
-  getPolData = new GetPolData(); //To get JSON Data from London Air Quality Netowork API
+
+  getCTData = new GetCTData(); //To get data from manually created JSON file
+  getPolData = new GetPolData(); //To get data from Kings_AirQuality_API collected JSON
 
   ctDisplay = new CTDisplay();
   polDisplay = new PolDisplay();
-  
+
   //Data processing (Run only once)
   getBoundries.run(); //Geo Data
-  getCTData.run(); //Council Tax Data
 }
 
 void draw() {
@@ -99,18 +97,25 @@ void draw() {
 }
 
 void mouseMoved() {
-  Marker hitMarker = map.getFirstHitMarker(mouseX, mouseY);
+  Marker hitMarker = map.getFirstHitMarker(mouseX, mouseY); // boolean is true if mouse is over a marker
 
   //This for loop unhighlights all other markers not under the the mouse.
   for (Marker marker : map.getMarkers ()) {
     marker.setSelected(false);
   }
 
-  //This check whether any information is in the marker and then sets the
+  //This checks whether any information is in the marker and then sets the
   //selected marker to true in order to highlight it. 
+
   if (hitMarker != null) {
     hitMarker.setSelected(true);
-    currentBorough = hitMarker.getId();
+    currentBorough = hitMarker.getId();//ID Capture to send borough name to match with all other data
+    for (int i = 0; i < boroughTotal; i ++) {
+      //Data will only display if mouse is over a borough.
+      if (currentBorough == boroughNameMatch[i]) {
+        currentBoroughNum = i; //Used to Capture borough ID. each Id is linked to a borough
+      }
+    }
   }
 }
 

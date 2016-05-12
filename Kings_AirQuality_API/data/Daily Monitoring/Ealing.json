@@ -10,7 +10,7 @@
         "@SiteType": "Roadside",
         "@LatitudeWGS84": "6715737.619",
         "@LongitudeWGS84": "-32559.6152231",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
@@ -36,7 +36,7 @@
         "@SiteType": "Industrial",
         "@LatitudeWGS84": "6713608.11252",
         "@LongitudeWGS84": "-29568.349186",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
@@ -48,7 +48,7 @@
           {
             "@IndexSource": "Measurement",
             "@AirQualityBand": "Low",
-            "@AirQualityIndex": "1",
+            "@AirQualityIndex": "2",
             "@SpeciesDescription": "PM10 Particulate",
             "@SpeciesCode": "PM10"
           }
@@ -62,7 +62,7 @@
         "@SiteType": "Roadside",
         "@LatitudeWGS84": "6714441.78131",
         "@LongitudeWGS84": "-29555.6177762",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": [
           {
             "@IndexSource": "Measurement",
@@ -88,11 +88,11 @@
         "@SiteType": "Industrial",
         "@LatitudeWGS84": "6713608.11252",
         "@LongitudeWGS84": "-29568.349186",
-        "@BulletinDate": "2016-04-16 00:00:00",
+        "@BulletinDate": "2016-04-23 00:00:00",
         "Species": {
           "@IndexSource": "Measurement",
           "@AirQualityBand": "Low",
-          "@AirQualityIndex": "1",
+          "@AirQualityIndex": "2",
           "@SpeciesDescription": "PM10 Particulate",
           "@SpeciesCode": "PM10"
         }
@@ -104,6 +104,6 @@
     "@LaCentreLongitudeWGS84": "-33864.947572",
     "@LaCentreLatitude": "51.513351"
   },
-  "@MonitoringIndexDate": "2016-04-16 00:00:00",
-  "@TimeToLive": "55"
+  "@MonitoringIndexDate": "2016-04-23 00:00:00",
+  "@TimeToLive": "31"
 }}

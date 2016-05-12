@@ -1,11 +1,11 @@
 class UIBox {
   PShape iBUI, iBbg; // Information Board
-  boolean UIOpen = true;
-  boolean answer, loadingData;
+  boolean UIOpen = true; //switch to turn on and off data
+  boolean answer;
   int xOffset = 17;
   int yOffset = 40;
-  int state = 1;
-  int count;
+  int state = 1;// 1 = Council Tax 2 = Pollution Data
+
   UIBox() {
     shapeCreate();
   }
@@ -100,13 +100,13 @@ class UIBox {
 
   void openInfo() {
     if (state == 1) {
+      getCTData.run(); //Council Tax Data
       ctDisplay.dataCollate(); //Display Council Tax data from GetCTData
     }
     if (state == 2) {
-      getPolData.run();
-      doItOnce = false;
-      loadingData = false;
+      getPolData.runDaily(); // Pollution Data
+      getPolData.runAnnual();
+      polDisplay.dataCollate();//Display Pollution data from GetPolData
     }
   }
-  polDisplay.dataCollate(); //Display Pollution data from GetPolData
 }

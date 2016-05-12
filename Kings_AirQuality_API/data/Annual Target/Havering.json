@@ -25,7 +25,7 @@
         "@ObjectiveName": "40 ug/m3 as an annual mean",
         "@SpeciesCode": "NO2",
         "@Achieved": "YES",
-        "@Value": "39"
+        "@Value": "38"
       },
       {
         "@SpeciesDescription": "PM10 Particulate",
@@ -33,7 +33,7 @@
         "@ObjectiveName": "40 ug/m3 as an annual mean",
         "@SpeciesCode": "PM10",
         "@Achieved": "YES",
-        "@Value": "20"
+        "@Value": "19"
       },
       {
         "@SpeciesDescription": "PM10 Particulate",
